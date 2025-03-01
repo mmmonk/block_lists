@@ -1,0 +1,65 @@
+# blocking discord
+0.0.0.0 discord.gg
+0.0.0.0 discord.com
+0.0.0.0 discordapp.com
+0.0.0.0 discord.media
+0.0.0.0 discordapp.net
+0.0.0.0 discordcdn.com
+0.0.0.0 discord.dev
+0.0.0.0 discord.new
+0.0.0.0 discord.gift
+0.0.0.0 discordstatus.com
+0.0.0.0 dis.gd
+0.0.0.0 discord.co
+
+# blocking telegram
+0.0.0.0 cdn-telegram.org
+0.0.0.0 comments.app
+0.0.0.0 contest.com
+0.0.0.0 fragment.com
+0.0.0.0 graph.org
+0.0.0.0 quiz.directory
+0.0.0.0 t.me
+0.0.0.0 tdesktop.com
+0.0.0.0 telega.one
+0.0.0.0 telegra.ph
+0.0.0.0 telegram-cdn.org
+0.0.0.0 telegram.dog
+0.0.0.0 telegram.me
+0.0.0.0 telegram.org
+0.0.0.0 telegram.space
+0.0.0.0 telesco.pe
+0.0.0.0 tg.dev
+0.0.0.0 tx.me
+0.0.0.0 usercontent.dev
+
+# blocking hidden/internal domains 
+0.0.0.0 onion
+0.0.0.0 i2p
+0.0.0.0 tor
+0.0.0.0 bit
+0.0.0.0 exit
+
+# mostly malicious top domains
+0.0.0.0 zip
+0.0.0.0 top
+
+# some stats
+0.0.0.0 stats.foldingathome.org
+0.0.0.0 stats.stackexchange.com
+
+# some google stuff
+0.0.0.0 android.clients.google.com
+0.0.0.0 reminders-pa.googleapis.com
+0.0.0.0 firestore.googleapis.com
+0.0.0.0 s.youtube.com
+0.0.0.0 video-stats.l.google.com
+0.0.0.0 gstaticadssl.l.google.com
+0.0.0.0 dl.google.com
+
+# block the default canary token domain
+0.0.0.0 canarytoken.com
+
+# some remote access tooling mostly abusable
+0.0.0.0 ngrok.io
+0.0.0.0 cloudflare-ipfs.com
