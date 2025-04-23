@@ -33,17 +33,6 @@
 0.0.0.0 tx.me
 0.0.0.0 usercontent.dev
 
-# blocking hidden/internal domains 
-0.0.0.0 onion
-0.0.0.0 i2p
-0.0.0.0 tor
-0.0.0.0 bit
-0.0.0.0 exit
-
-# mostly malicious top domains
-0.0.0.0 zip
-0.0.0.0 top
-
 # some stats
 0.0.0.0 stats.foldingathome.org
 0.0.0.0 stats.stackexchange.com
@@ -62,3 +51,13 @@
 # some remote access tooling mostly abusable
 0.0.0.0 ngrok.io
 0.0.0.0 cloudflare-ipfs.com
+0.0.0.0 anydesk.com
+
+## from news
+# https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats
+0.0.0.0 trycloudflare.com
+# https://infosec.exchange/@deepthoughts10/112928765243566183
+0.0.0.0 onrender.com
+# https://infosec.exchange/@deepthoughts10/112928765243566183
+0.0.0.0 duckdns.org
+
