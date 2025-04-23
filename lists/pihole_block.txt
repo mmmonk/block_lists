@@ -55,7 +55,6 @@
 0.0.0.0 s.youtube.com
 0.0.0.0 video-stats.l.google.com
 0.0.0.0 gstaticadssl.l.google.com
-0.0.0.0 dl.google.com
 
 # block the default canary token domain
 0.0.0.0 canarytoken.com
