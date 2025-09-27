@@ -61,3 +61,18 @@
 # https://infosec.exchange/@deepthoughts10/112928765243566183
 0.0.0.0 duckdns.org
 
+
+### from https://github.com/BadSamuraiDev/bs-lists/blob/main/webhooks.txt
+0.0.0.0 webhook.site
+0.0.0.0 pipedream.com
+0.0.0.0 hookbin.com
+0.0.0.0 beeceptor.com
+0.0.0.0 hookdeck.com
+0.0.0.0 svix.com
+0.0.0.0 mockly.me
+0.0.0.0 mockoon.app
+0.0.0.0 requestcatcher.com
+0.0.0.0 requestinspector.com
+0.0.0.0 webhook.cool
+0.0.0.0 webhookrelay.com
+0.0.0.0 wiremock.cloud
