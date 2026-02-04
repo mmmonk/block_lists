@@ -76,3 +76,11 @@
 0.0.0.0 webhook.cool
 0.0.0.0 webhookrelay.com
 0.0.0.0 wiremock.cloud
+
+# AI molt/clawd bot
+0.0.0.0 clawd.bot
+0.0.0.0 molt.bot
+0.0.0.0 openclaw.bot
+0.0.0.0 openclaw.ai
+0.0.0.0 clawdhub.com
+
