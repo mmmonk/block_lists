@@ -51,7 +51,8 @@
 # some remote access tooling mostly abusable
 0.0.0.0 ngrok.io
 0.0.0.0 cloudflare-ipfs.com
-0.0.0.0 anydesk.com
+#0.0.0.0 anydesk.com
+#0.0.0.0 teamviewer.com
 
 ## from news
 # https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats
